@@ -129,4 +129,4 @@ npm start
 cd frontend
 npm install
 npm run dev
-in this  code i need last set up part come in different div section
+
