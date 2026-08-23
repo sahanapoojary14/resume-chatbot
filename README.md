@@ -133,12 +133,8 @@ npm run dev
 ```
 👨‍💻 Author
 <div align="center">
-
 <strong>Sahana</strong>
-
 <br>
-
 Software Engineer | Full-Stack Developer | Cloud & DevOps Enthusiast
-
 </div>
 
