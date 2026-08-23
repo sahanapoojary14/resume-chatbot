@@ -107,7 +107,7 @@ React frontend connected to a Node.js and Express.js backend through REST APIs.
    │
    ▼
 📄 PDF Resume
-</div>
+
 
 
 
@@ -118,3 +118,9 @@ React frontend connected to a Node.js and Express.js backend through REST APIs.
 ```bash
 git clone <repository-url>
 cd resume-chatbot
+
+### 2.Backend
+```bash
+cd backend
+npm install
+npm start
