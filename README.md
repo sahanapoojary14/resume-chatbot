@@ -114,7 +114,7 @@ React frontend connected to a Node.js and Express.js backend through REST APIs.
 
 ## 🚀 Setup
 
- 1. Clone the repository
+ 1.Clone the repository
 ```bash
 git clone <repository-url>
 cd resume-chatbot
@@ -130,4 +130,15 @@ npm start
 cd frontend
 npm install
 npm run dev
+```
+👨‍💻 Author
+<div align="center">
+
+<strong>Sahana</strong>
+
+<br>
+
+Software Engineer | Full-Stack Developer | Cloud & DevOps Enthusiast
+
+</div>
 
