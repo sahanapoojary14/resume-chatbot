@@ -14,16 +14,36 @@
 
 <table>
   <tr>
-    <td align="center" width="50%">💬<br><strong>Conversational resume creation</strong></td>
-    <td align="center" width="50%">🤖<br><strong>AI-powered content improvement using Gemini</strong></td>
+    <td align="center" width="50%">
+      💬<br>
+      <strong>Conversational resume creation</strong>
+    </td>
+    <td align="center" width="50%">
+      🤖<br>
+      <strong>AI-powered content improvement using Gemini</strong>
+    </td>
   </tr>
+
   <tr>
-    <td align="center" width="50%">📄<br><strong>Automatic PDF resume generation</strong></td>
-    <td align="center" width="50%">🎨<br><strong>Multiple resume templates</strong></td>
+    <td align="center" width="50%">
+      📄<br>
+      <strong>Automatic PDF resume generation</strong>
+    </td>
+    <td align="center" width="50%">
+      🎨<br>
+      <strong>Multiple resume templates</strong>
+    </td>
   </tr>
+
   <tr>
-    <td align="center" width="50%">💾<br><strong>Chat history using localStorage</strong></td>
-    <td align="center" width="50%">⚡<br><strong>React + Node.js architecture</strong></td>
+    <td align="center" width="50%">
+      💾<br>
+      <strong>Chat history using localStorage</strong>
+    </td>
+    <td align="center" width="50%">
+      ⚡<br>
+      <strong>React + Node.js architecture</strong>
+    </td>
   </tr>
 </table>
 
@@ -36,22 +56,27 @@
     <th>Category</th>
     <th>Technologies</th>
   </tr>
+
   <tr>
     <td><strong>Frontend</strong></td>
     <td>React, Vite, Tailwind CSS, Axios</td>
   </tr>
+
   <tr>
     <td><strong>Backend</strong></td>
     <td>Node.js, Express.js</td>
   </tr>
+
   <tr>
     <td><strong>AI</strong></td>
     <td>Google Gemini API</td>
   </tr>
+
   <tr>
     <td><strong>PDF</strong></td>
     <td>PDFKit</td>
   </tr>
+
   <tr>
     <td><strong>Storage</strong></td>
     <td>Browser localStorage</td>
