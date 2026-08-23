@@ -90,7 +90,7 @@ React frontend connected to a Node.js and Express.js backend through REST APIs.
 
 <div align="center">
 
-```text
+
 👤 User
    │
    ▼
@@ -108,7 +108,7 @@ React frontend connected to a Node.js and Express.js backend through REST APIs.
    ▼
 📄 PDF Resume
 
-
+</div>
 
 
 ## 🚀 Setup
