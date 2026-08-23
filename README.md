@@ -46,6 +46,10 @@ User → Chatbot → Resume Information → Gemini AI
                               Template Selection
                                       ↓
                                   PDF Resume
+
+
+
+
 🔮 Future Improvements
 User authentication
 ATS resume scoring
