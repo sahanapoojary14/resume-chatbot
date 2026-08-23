@@ -111,21 +111,23 @@ React frontend connected to a Node.js and Express.js backend through REST APIs.
 </div>
 
 
-## 🚀 Setup
-
- 1. Clone the repository
-```bash
+🚀 Setup
+<div align="center">
+1️⃣ Clone the Repository
+</div>
 git clone <repository-url>
 cd resume-chatbot
 
- 2.Backend
-```bash
+<div align="center">
+2️⃣ Backend Setup
+</div>
 cd backend
 npm install
 npm start
 
- 3.Frontend
-```bash
+<div align="center">
+3️⃣ Frontend Setup
+</div>
 cd frontend
 npm install
 npm run dev
