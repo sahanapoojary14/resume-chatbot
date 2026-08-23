@@ -107,3 +107,13 @@ React frontend connected to a Node.js and Express.js backend through REST APIs.
    │
    ▼
 📄 PDF Resume
+
+
+
+## 🚀 Setup
+
+### 1. Clone the repository
+
+```bash
+git clone <repository-url>
+cd resume-chatbot
