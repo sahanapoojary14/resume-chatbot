@@ -3,26 +3,7 @@
 # 🤖 AI Resume Builder
 
 <p>
-  An AI-powered resume builder that helps users create professional resumes
-  through a simple conversational chatbot.
-</p>
-
-<p>
-  <strong>React</strong> •
-  <strong>Node.js</strong> •
-  <strong>Express.js</strong> •
-  <strong>Gemini AI</strong> •
-  <strong>PDFKit</strong>
-</p>
-
-<p>
-  <a href="https://github.com/vaishak-labs">
-    GitHub
-  </a>
-  •
-  <a href="https://linkedin.com/in/vaishak-cs">
-    LinkedIn
-  </a>
+  An AI-powered resume builder that helps users create professional resumes through a simple conversational chatbot. It uses <strong>Google Gemini AI</strong> to improve resume content and generates downloadable PDF resumes using different templates.
 </p>
 
 </div>
@@ -32,94 +13,57 @@
 ## ✨ Features
 
 <table>
-<tr>
-<td width="50%">
-
-### 💬 Conversational Resume Creation
-
-Create your resume through a simple chatbot instead of filling out a traditional form.
-
-</td>
-<td width="50%">
-
-### 🤖 AI Content Improvement
-
-Uses Google Gemini AI to improve and professionally rewrite resume content.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 📄 PDF Generation
-
-Automatically generates a downloadable PDF resume.
-
-</td>
-<td width="50%">
-
-### 🎨 Multiple Templates
-
-Choose from different resume templates to create a professional-looking resume.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 💾 Chat History
-
-Stores conversation history locally using browser `localStorage`.
-
-</td>
-<td width="50%">
-
-### ⚡ Full-Stack Application
-
-React frontend connected to a Node.js and Express.js backend through REST APIs.
-
-</td>
-</tr>
+  <tr>
+    <td align="center" width="50%">💬<br><strong>Conversational resume creation</strong></td>
+    <td align="center" width="50%">🤖<br><strong>AI-powered content improvement using Gemini</strong></td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">📄<br><strong>Automatic PDF resume generation</strong></td>
+    <td align="center" width="50%">🎨<br><strong>Multiple resume templates</strong></td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">💾<br><strong>Chat history using localStorage</strong></td>
+    <td align="center" width="50%">⚡<br><strong>React + Node.js architecture</strong></td>
+  </tr>
 </table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-| Category | Technologies |
-|----------|--------------|
-| **Frontend** | React, Vite, Tailwind CSS, Axios |
-| **Backend** | Node.js, Express.js |
-| **AI** | Google Gemini API |
-| **PDF Generation** | PDFKit |
-| **Storage** | Browser localStorage |
-
-</div>
+<table align="center">
+  <tr>
+    <th>Category</th>
+    <th>Technologies</th>
+  </tr>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>React, Vite, Tailwind CSS, Axios</td>
+  </tr>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>Node.js, Express.js</td>
+  </tr>
+  <tr>
+    <td><strong>AI</strong></td>
+    <td>Google Gemini API</td>
+  </tr>
+  <tr>
+    <td><strong>PDF</strong></td>
+    <td>PDFKit</td>
+  </tr>
+  <tr>
+    <td><strong>Storage</strong></td>
+    <td>Browser localStorage</td>
+  </tr>
+</table>
 
 ---
 
-## 🔄 How It Works
+## 🚀 Setup
 
-<div align="center">
+### 1. Clone the repository
 
-```text
-👤 User
-   │
-   ▼
-💬 Chatbot
-   │
-   ▼
-📝 Resume Information
-   │
-   ▼
-🤖 Gemini AI
-   │
-   ▼
-🎨 Template Selection
-   │
-   ▼
-📄 PDF Resume
+```bash
+git clone <repository-url>
+cd resume-chatbot
