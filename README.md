@@ -124,3 +124,9 @@ cd resume-chatbot
 cd backend
 npm install
 npm start
+
+### 3.Frontend
+```bash
+cd frontend
+npm install
+npm run dev
