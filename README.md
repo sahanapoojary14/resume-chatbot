@@ -90,7 +90,7 @@ React frontend connected to a Node.js and Express.js backend through REST APIs.
 
 <div align="center">
 
-
+```text
 👤 User
    │
    ▼
@@ -108,26 +108,25 @@ React frontend connected to a Node.js and Express.js backend through REST APIs.
    ▼
 📄 PDF Resume
 
-</div>
 
 
-🚀 Setup
-<div align="center">
-1️⃣ Clone the Repository
-</div>
+
+## 🚀 Setup
+
+ 1. Clone the repository
+```bash
 git clone <repository-url>
 cd resume-chatbot
 
-<div align="center">
-2️⃣ Backend Setup
-</div>
+ 2.Backend
+```bash
 cd backend
 npm install
 npm start
 
-<div align="center">
-3️⃣ Frontend Setup
-</div>
+ 3.Frontend
+```bash
 cd frontend
 npm install
 npm run dev
+in this  code i need last set up part come in different div section
