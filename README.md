@@ -15,6 +15,16 @@
   <strong>PDFKit</strong>
 </p>
 
+<p>
+  <a href="https://github.com/vaishak-labs">
+    GitHub
+  </a>
+  •
+  <a href="https://linkedin.com/in/vaishak-cs">
+    LinkedIn
+  </a>
+</p>
+
 </div>
 
 ---
@@ -26,12 +36,14 @@
 <td width="50%">
 
 ### 💬 Conversational Resume Creation
+
 Create your resume through a simple chatbot instead of filling out a traditional form.
 
 </td>
 <td width="50%">
 
 ### 🤖 AI Content Improvement
+
 Uses Google Gemini AI to improve and professionally rewrite resume content.
 
 </td>
@@ -41,12 +53,14 @@ Uses Google Gemini AI to improve and professionally rewrite resume content.
 <td width="50%">
 
 ### 📄 PDF Generation
+
 Automatically generates a downloadable PDF resume.
 
 </td>
 <td width="50%">
 
 ### 🎨 Multiple Templates
+
 Choose from different resume templates to create a professional-looking resume.
 
 </td>
@@ -56,12 +70,14 @@ Choose from different resume templates to create a professional-looking resume.
 <td width="50%">
 
 ### 💾 Chat History
+
 Stores conversation history locally using browser `localStorage`.
 
 </td>
 <td width="50%">
 
 ### ⚡ Full-Stack Application
+
 React frontend connected to a Node.js and Express.js backend through REST APIs.
 
 </td>
@@ -76,11 +92,11 @@ React frontend connected to a Node.js and Express.js backend through REST APIs.
 
 | Category | Technologies |
 |----------|--------------|
-| Frontend | React, Vite, Tailwind CSS, Axios |
-| Backend | Node.js, Express.js |
-| AI | Google Gemini API |
-| PDF | PDFKit |
-| Storage | Browser localStorage |
+| **Frontend** | React, Vite, Tailwind CSS, Axios |
+| **Backend** | Node.js, Express.js |
+| **AI** | Google Gemini API |
+| **PDF Generation** | PDFKit |
+| **Storage** | Browser localStorage |
 
 </div>
 
